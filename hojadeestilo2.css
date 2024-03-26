@@ -1,0 +1,260 @@
+
+
+#INDEPENDIENTE  {
+
+	background-image: url("libertadores-de-america.jpg");
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.8;
+
+}
+#river  {
+
+	background-image: url("estadioriver.jpg");   
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.8;
+}
+#rosario  {
+
+	background-image: url("gigantedearroyitolaciudad.jpg");   
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.9;
+}
+#Sanlorenzo  {
+
+	background-image: url("canchasl.jpg");   
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.8;
+}
+#Estudiantes  {
+
+	background-image: url("canchaestudiantes.jpg");   
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.8;
+}
+
+#menu  {
+
+	background-image: url("fondoo.jpg");   
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.8;
+}
+#rosario  {
+
+	background-image: url("canchan.jpg");   
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.9;
+}
+#velez {
+	background-image: url("cvelez.jpg");   
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.9;
+}
+#boca{ 
+	background-image: url("bombonera.jpg");   
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.8;
+}
+#Lanus  {
+
+	background-image: url("canchal.jpg");
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.8; }
+
+#Racing  {
+
+	background-image: url("canchar.jpg");
+	font-family: "TIMES NEW ROMAN", ALGERIAN;
+	font-size: 21px;
+	opacity: 0.8;
+
+}
+
+
+#cabecerai {
+	background-color: #8A0829 ;   
+	border-radius:  21PX ;
+	color: #FFFFFF   ;  /* #D7DF01 */ 
+	box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+}
+
+#cabeceraro {
+	background-color: #FFFF00 ;   
+	border-radius:  21px ;
+	color: #000000     ;  /* #D7DF01 #FFFFFF */ 
+	box-shadow: 10px 5px 5px rgba(00,00,00,1.2); 
+}
+#cabecerasl {
+
+background-color: #FF0040 ;   
+	border-radius:  21px ;
+	color: #0404B4    ;  /* #D7DF01 #FFFFFF */ 
+	box-shadow: 10px 5px 5px rgba(00,00,00,1.2); 
+
+}
+#cabeceramn {
+
+background-color: #00FF40  ;   
+	border-radius:  21px ;
+	color: #0000FF    ;  /* #D7DF01 #FFFFFF */ 
+	box-shadow: 10px 5px 5px rgba(00,00,00,1.2); 
+
+} 
+#cabecerane {
+
+background-color: #8A0829 ;   
+	border-radius:  21px ;
+	color: #000000    ;  /* #D7DF01 #FFFFFF */ 
+	box-shadow: 10px 5px 5px rgba(00,00,00,1.2); 
+
+}  
+#CABECERAv {
+	background-color: #0404B4  ;   
+	border-radius:  21PX ;
+	color: #FFFFFF   ;  /* #D7DF01 */ 
+	box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+}
+#CABECERAb {
+	background-color: #0404B4  ;   
+	border-radius:  21PX ;
+	color: #FFFF00   ;  /* #D7DF01 */ 
+	box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+}
+#cabracing {
+	background-color: #0404B4  ;   
+	border-radius:  21PX ;
+	color: #FFFFFF  ;  /* #D7DF01 */ 
+	box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+}
+
+
+
+#navegacion ul li {
+	color:#FF0040 ;
+	display: inline-block;
+	margin-left: 128px;
+	padding-left:20px;
+	font-weight: bold; 
+	background-color:#FE9A2E ;
+}
+#barra {
+	color: #088A68 ;
+	background-color: #3C1111;  /* #F16666  #AEB404 */
+	 border-radius:  21PX ;
+    box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+    display: inline-block;
+	margin-left: 240px;
+	padding-left:20px;
+}
+
+#principal {
+	
+    margin: 0 AUTO ;
+    
+    margin-left: 25px;
+	margin-right: 25px;
+	background-color :  #8A0829 ; /* #010400; */
+	border-radius:  20px;
+	color: #FFFFFF ;  /*#F7F9F6 */          
+    border-radius:  8PX ;
+    box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+    text-align: center;
+ 
+}  
+
+
+
+#ro {
+	color: #000000 ;  /*#F7F9F6 */
+   background-color : #868A08 ; /* #010400; */
+    margin: 0 AUTO ;
+    margin-left: 25px;
+	margin-right: 25px;
+	border-radius:  20px;
+	color: #000000;  /*#F7F9F6 */             
+    border-radius:  8PX ;
+    box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+    text-align: center;
+
+}
+#principalmn {
+	
+    margin: 0 AUTO ;
+    
+    margin-left: 25px;
+	margin-right: 25px;
+	background-color :  #00FF40 ; /* #010400; */
+	border-radius:  20px;
+	color: #0000FF;  /*#F7F9F6 */          
+    border-radius:  8PX ;
+    box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+    text-align: center;
+ 
+}
+#principaln {
+	
+    margin: 0 AUTO ;
+    
+    margin-left: 25px;
+	margin-right: 25px;
+	background-color :  #8A0829 ; /* #010400; */
+	border-radius:  20px;
+	color: #000000 ;  /*#F7F9F6 */          
+    border-radius:  8PX ;
+    box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+    text-align: center;
+ 
+}  
+#principalv {
+	
+    margin: 0 AUTO ;
+    
+    margin-left: 25px;
+	margin-right: 25px;
+	background-color :  #0404B4 ; /* #010400; */
+	border-radius:  20px;
+	color: #FFFFFF ;  /*#F7F9F6 */          
+    border-radius:  8PX ;
+    box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+    text-align: center;
+ 
+}  
+#principalr {
+	
+    margin: 0 AUTO ;
+    
+    margin-left: 25px;
+	margin-right: 25px;
+	background-color :  #0404B4 ; /* #010400; */
+	border-radius:  20px;
+	color: #FFFFFF ;  /*#F7F9F6 */          
+    border-radius:  8PX ;
+    box-shadow: 10px 5px 5px rgba(00,00,00,1.2);
+    text-align: center;
+ 
+}  
+
+#pie { 
+	 background-color:  #610B21 ;  /* #3C1111  #3B0B17 */
+	color:  #81DAF5   ;   /* #848484 #088A68  */
+	font-weight: bold;
+	margin-left: 100px;
+	padding-left:10px;
+    box-shadow: 10px 5px 5px rgba(00,00,00,1.2)  ;
+    width: 770px ;
+}
+#foto {
+text-align: center;
+
+
+
+}
